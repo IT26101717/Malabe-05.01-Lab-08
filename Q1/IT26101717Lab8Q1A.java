@@ -13,7 +13,7 @@ myArrays[i] = input.nextInt();
 }
 
 System.out.println("Array in Reverse Order:");
-for (int i = myArray.length-1 ; 1 >=0; 1--) {
+for (int i = myArray.length-1 ; i >=0; i--) {
 System.out.print(myArray[i] + "");
 }
 }
