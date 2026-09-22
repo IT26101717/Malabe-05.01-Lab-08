@@ -15,7 +15,7 @@ public class IT26101717Lab8Q4 {
                 i++;                  
             } else {
                 System.out.println("Error: Please Enter ONLY Positive Numbers");
-                // i not increment → same student repeat
+               
             }
         }
 
